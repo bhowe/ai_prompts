@@ -5,7 +5,19 @@
 
 My Prompts
 
+Prompt 1
 My goal is to build a new SaaS application. To do this, I need to build something that my users will find valuable. My ideal users are #insert target market#  with 5M+ - 50M annual revenue who primarily work with #insert technology#  and are concerned with #topic#. Please use the Jobs-To-Be-Done framework to outline the key features and benefits that would appeal to this target market. #Tobias Zwingmann 
+
+Prompt 2
+Act as an expert on software development on the topic of WordPress, and an expert blog writer.
+The audience for this is #enter audience#  who are interested in learning about #enter topic#
+
+Write me article on #enter title and what you want the article to be about be specific#
+
+including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries.
+ 
+When responding, use a mix of the writing styles of #thought leaders in your industry.
+
 
 Prompts to dig deeper
 
