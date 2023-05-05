@@ -1,4 +1,12 @@
+
+
 # ai_prompts
+
+
+My Prompts
+
+My goal is to build a new SaaS application. To do this, I need to build something that my users will find valuable. My ideal users are #insert target market#  with 5M+ - 50M annual revenue who primarily work with #insert technology#  and are concerned with #topic#. Please use the Jobs-To-Be-Done framework to outline the key features and benefits that would appeal to this target market. #Tobias Zwingmann 
+
 Prompts to dig deeper
 
 What are the historical roots of this topic? Understanding the history and evolution of a topic provides valuable context and helps identify patterns or trends that have emerged over time.
